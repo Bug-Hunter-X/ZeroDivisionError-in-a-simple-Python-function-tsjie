@@ -1,0 +1,1 @@
+This repository demonstrates an uncommon error scenario in Python involving a ZeroDivisionError. The `bug.py` file contains a function that causes this error when called with a specific input. The `bugSolution.py` file provides a solution to prevent the error from occurring. This example is helpful for understanding how to handle exceptions and prevent common runtime errors.
